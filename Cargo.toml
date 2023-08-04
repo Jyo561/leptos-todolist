@@ -1,0 +1,8 @@
+[package]
+name = "app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+leptos = "0.3.1"
+console_error_panic_hook = "0.1.7"
